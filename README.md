@@ -1,4 +1,12 @@
 # K-Means-Clustering-Implementation
+## Output Images
+![Ekran görüntüsü 2024-01-12 235917](https://github.com/Aherte/K-Means-Clustering-Implementation/assets/55800601/a746ee14-15fe-4561-83e4-2aaec591fdb4)
+
+![Ekran görüntüsü 2024-01-12 235959](https://github.com/Aherte/K-Means-Clustering-Implementation/assets/55800601/7897a988-9cb0-42f4-ad45-5a7a39120075)
+
+![Ekran görüntüsü 2024-01-13 000031](https://github.com/Aherte/K-Means-Clustering-Implementation/assets/55800601/5f780419-9982-4f23-8327-8ddf5e5c681f)
+
+![Ekran görüntüsü 2024-01-13 000046](https://github.com/Aherte/K-Means-Clustering-Implementation/assets/55800601/d8d7f8df-d01d-440c-a86a-2c763324f582)
 
 1. Point Class 
 The `Point` class represents the characteristics of data points within clusters. Each point 

@@ -1,4 +1,6 @@
 # K-Means-Clustering-Implementation
+This project centers around implementing the K-means clustering method through a carefully crafted class hierarchy. Drawing upon existing K-means implementations or referring to https://en.wikipedia.org/wiki/K-means_clustering, the design aims for an efficient and versatile structure.
+
 ## Output Images
 ![Ekran görüntüsü 2024-01-12 235917](https://github.com/Aherte/K-Means-Clustering-Implementation/assets/55800601/a746ee14-15fe-4561-83e4-2aaec591fdb4)
 
